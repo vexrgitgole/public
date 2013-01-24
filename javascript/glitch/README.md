@@ -6,6 +6,8 @@ Current version is quite basic:
 * upon load of the webpage it calculates glitched frames and loads them into a buffer
 * It then plays those frames several times with progressive delays between animations
 
+It currently does not use any jQuery support. The **glitch-lib.js** does support it however.
+
 Current limitations
 -------------------
 Because it's quite a basic script, it has some limitations.
@@ -13,4 +15,7 @@ Because it's quite a basic script, it has some limitations.
 2. Animation neesds tuning; it's rather raw and not 100% convincing.
 3. Animation will consist of the same initial frames [because they are computed only once].
 
+Praises and recognition
+-----------------------
+My only contribu
 
