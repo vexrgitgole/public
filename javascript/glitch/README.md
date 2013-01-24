@@ -19,5 +19,6 @@ Because it's quite a basic script, it has some limitations.
 Praises and recognition
 -----------------------
 My only contribution is the **glitch-execute.js** code.
-All other credit goes to [Simon Hewitt](http://sjhewitt.co.uk/2012/07/javascript-glitch-effect-glitch-js/ "Simon Hewitt's page") fo t
+All other credit goes to
+* [Simon Hewitt](http://sjhewitt.co.uk/2012/07/javascript-glitch-effect-glitch-js/ "Simon Hewitt's page") for the glitch library. The source can be [found here](https://github.com/sjhewitt/glitch.js/ "glitch.js sourc code").
 
