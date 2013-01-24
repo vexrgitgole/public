@@ -16,6 +16,11 @@ Because it's quite a basic script, it has some limitations.
 2. Animation neesds tuning; it's rather raw and not 100% convincing.
 3. Animation will consist of the same initial frames [because they are computed only once].
 
+Demos:
+------
+* At [CTF 365](http://ctf365.com/ "CTF365")
+* At [this page](http://93.114.42.133/~sandu/glitch_test/ "Glitch test page")
+
 Praises and recognition
 -----------------------
 My only contribution is the **glitch-execute.js** code.
