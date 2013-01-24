@@ -6,7 +6,7 @@ A collection of codes that I made, which I also consider are worth making public
 Javascript
 ==========
 
-Scripts that are interesting and maybe usefull.
+Scripts that are interesting and maybe useful.
 
 Glitch script
 -------------
